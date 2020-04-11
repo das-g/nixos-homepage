@@ -45,25 +45,25 @@
     <h2>Nix Packages collection</h2>
 
     <p>We provide a large set of Nix expressions containing thousands of
-    existing Unix packages, the <a href="../nixpkgs"><em>Nix Packages
-    collection</em> (Nixpkgs)</a>.</p>
+      existing Unix packages, the <a href="../nixpkgs"><em>Nix Packages
+          collection</em> (Nixpkgs)</a>.</p>
   </div>
 </div>
 
 <div class="nixos-org-index">
   [%# Title for the site, used to keep the document tree rooted at h1. %]
   <h1>NixOS</h1>
-  
+
   <div class="jumbotron-two">
     <div>
       <div class="intro-nix">
         <h2>Nix</h2>
-      
+
         <p>a powerful package manager for Linux and other Unix systems
-        that makes package management reliable and reproducible.  It
-        provides atomic upgrades and rollbacks, side-by-side installation
-        of multiple versions of a package, multi-user package management
-        and easy setup of build environments.
+          that makes package management reliable and reproducible. It
+          provides atomic upgrades and rollbacks, side-by-side installation
+          of multiple versions of a package, multi-user package management
+          and easy setup of build environments.
         </p>
 
         TODO: install guide
@@ -74,16 +74,15 @@
         </div>
       </div>
 
-
       <div class="intro-nixos">
         <h2>NixOS</h2>
-      
+
         <p>NixOS is a Linux distribution with a unique approach
-        to package and configuration management. Built on top of the
-        Nix package manager, it is completely declarative, makes
-        upgrading systems reliable, and has
-        <a href="[%root%]/nixos/about.html">many other advantages</a>.</p>
-      
+          to package and configuration management. Built on top of the
+          Nix package manager, it is completely declarative, makes
+          upgrading systems reliable, and has
+          <a href="[%root%]/nixos/about.html">many other advantages</a>.</p>
+
         TODO: link to download page
         <div class="learn-more">
           <a class="btn btn-success" href="[%root%]/nixos/">
@@ -93,7 +92,7 @@
       </div>
     </div>
   </div>
-  
+
 </div>
 
 [% END %]
