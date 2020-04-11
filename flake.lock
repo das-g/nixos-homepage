@@ -35,24 +35,6 @@
         "ref": "release-19.09",
         "type": "indirect"
       }
-    },
-    "nixpkgsUnstable": {
-      "info": {
-        "lastModified": 1584973599,
-        "narHash": "sha256-KogaDKiLNAjWcZjePtdpHjEdqZP0MHVMqs9LQjxESvE="
-      },
-      "inputs": {},
-      "locked": {
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "7d9e3877e15d172da9ff1d24a7a33a765ad50253",
-        "type": "github"
-      },
-      "original": {
-        "id": "nixpkgs",
-        "ref": "master",
-        "type": "indirect"
-      }
     }
   },
   "version": 4
