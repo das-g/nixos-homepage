@@ -40,6 +40,11 @@ p {
 	padding-bottom: 0;
 }
 
+.navbar .navbar-search {
+  margin-top: 0.6em;
+
+}
+
 .dropdown .caret {
 	vertical-align: middle;
 	margin-top: -3px;
